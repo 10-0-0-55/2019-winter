@@ -29,7 +29,9 @@
 
 - 目录树
 - mount
+	- 一切皆文件
 - 各个文件夹作用
+  - 根目录下基本都是干嘛的
 
 ---
 # shell & kernel
@@ -42,7 +44,7 @@
 
 - WaitButWhy
 - linux: 配置文件 ; windows: 注册表
-- 
+- .config
 
 --- 
 # 主流语言应用的安装方式
@@ -68,13 +70,14 @@
 
 - 为什么要使用 Vim or Emacs
 - vim 怎么入门
-- vimrc
+- vimrce
   - 插件管理
 
 ---
 # bash
 
-- 
+- 与计算机直接交互的脚本语言
+
 ---
 
 # useful command:keyboard:
@@ -94,4 +97,3 @@
 - htop
 - trash-cli
 - browser-sync
-- 
